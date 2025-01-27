@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Salesforce Development<br>🎯 Goals: Salesforce Developer<br>🎲 Fun fact: I rewatch multiple of times Breaking Bad and Prison Break<br><br>You can reach me at</p>
+<p align="left">📚 I'm currently learning Salesforce Development<br>🎯 Goal: Salesforce Developer<br>🎲 Fun fact: I rewatch multiple of times Breaking Bad and Prison Break<br><br>You can reach me at</p>
 
 ###
 
